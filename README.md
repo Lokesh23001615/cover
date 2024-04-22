@@ -31,6 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -141,7 +142,7 @@ Publish the website in the LocalHost.
 
     </body>
 </html>
-
+```
 
 ## OUTPUT:
 ![alt text](loki/coverapp/static/coverout.png)
